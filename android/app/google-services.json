@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507060264875",
+    "project_id": "randj-assessment",
+    "storage_bucket": "randj-assessment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507060264875:android:d403ae10b7bdd93237bcee",
+        "android_client_info": {
+          "package_name": "com.codebrain.randj_assessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507060264875-50g2gp98gmvhin4i600l7o1f3afvr2ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_uNBojFmd24-BUZnuG9iMn2i0kciis5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507060264875-50g2gp98gmvhin4i600l7o1f3afvr2ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
